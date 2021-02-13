@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(29, 98, 20);
+    color: white;
+}
+
+nav a{
+    color: yellow;
+}
+
+.header{
+    margin: auto;
+    text-align: center;
+}
+
+h3{
+    color: yellow;
+}
+
+.yellow{
+    color: yellow;
+}
