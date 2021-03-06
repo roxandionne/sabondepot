@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(130, 50, 155);
+    color: rgb(255, 255, 255);   
+}
+
+.header, footer{
+    margin: auto;
+    text-align: center;
+    color: rgb(55, 209, 214);
+}
+
+.registration{
+    color: rgb(0, 0, 0);
+}
+
+nav a{
+    color: rgb(55, 209, 214);
+}
+
+h4{
+    font-style: oblique;
+}
+
+h2, h3{
+    color: black;
+}
+
+table{
+    color: turquoise;
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse; 
+}
+
+th{
+    color: black;
+}
+
